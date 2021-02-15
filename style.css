@@ -92,6 +92,7 @@ font-family: 'Ballet', cursive;
 .chill-box {
   background: grey;
   border-radius: 0.5rem;
+  overflow: hidden;
 }
 
 .chill-box-heading {
